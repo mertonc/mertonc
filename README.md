@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ML and creating data solutions
+- 👯 I’m looking to collaborate on AI 
+- 💬 Ask me about my portfolio and journey!
+- 📫 How to reach me: mertonchenx@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to watch Esports analytics and play strategy games
+
 <!--
 **mertonc/mertonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
