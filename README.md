@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Merton!
+# ✨ Hi, I'm Merton!
 🔭 I’m currently working on becoming a data leader<br>🌱 I’m currently learning ML and AI<br>💬 Ask me about my portfolio and journey!<br>📫 How to reach me: mertonchenx@gmail.com<br>😄 Pronouns: He/Him
 
 # 💻 Tech Stack
