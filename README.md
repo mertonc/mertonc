@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on becoming a data leader
 - 🌱 I’m currently learning ML and creating data solutions
 - 👯 I’m looking to collaborate on AI 
 - 💬 Ask me about my portfolio and journey!
